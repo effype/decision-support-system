@@ -1,7 +1,7 @@
 # Decision support system
 <p>
 Prosty program wspomagający podejmowanie decyzji. 
-Realizacja programu według instrukcji dostępnej na stronie: <a href="http://zsiie.icis.pcz.pl/files/MiASI/POAwWN.pdf"></a>
+Realizacja programu według instrukcji dostępnej na: <a href="http://zsiie.icis.pcz.pl/files/MiASI/POAwWN.pdf">stronie</a>
   </p>
   <p>
   Interfejs graficzny programu:
