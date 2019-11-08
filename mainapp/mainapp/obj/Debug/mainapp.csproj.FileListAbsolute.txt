@@ -1,0 +1,49 @@
+C:\js\mainapp\mainapp\bin\Debug\mainapp.exe.config
+C:\js\mainapp\mainapp\bin\Debug\mainapp.exe
+C:\js\mainapp\mainapp\bin\Debug\mainapp.pdb
+C:\js\mainapp\mainapp\obj\Debug\mainapp.csprojResolveAssemblyReference.cache
+C:\js\mainapp\mainapp\obj\Debug\mainapp.Form1.resources
+C:\js\mainapp\mainapp\obj\Debug\mainapp.Properties.Resources.resources
+C:\js\mainapp\mainapp\obj\Debug\mainapp.csproj.GenerateResource.Cache
+C:\js\mainapp\mainapp\obj\Debug\mainapp.exe
+C:\js\mainapp\mainapp\obj\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe.config
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\bin\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.csprojAssemblyReference.cache
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.Form1.resources
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.Properties.Resources.resources
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.GenerateResource.cache
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.exe
+C:\Users\Jola\Desktop\mainapp\mainapp\mainapp\obj\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe.config
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\bin\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.csprojAssemblyReference.cache
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.Form1.resources
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.Properties.Resources.resources
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.GenerateResource.cache
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.exe
+C:\Users\Jola\Desktop\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe.config
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\bin\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.csprojAssemblyReference.cache
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.Form1.resources
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.Properties.Resources.resources
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.GenerateResource.cache
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.exe
+C:\Users\Jola\Desktop\sesja\Własny przykład - kremy do opalania\mainapp\mainapp\mainapp\obj\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe.config
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\bin\Debug\mainapp.exe
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\bin\Debug\mainapp.pdb
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.csprojAssemblyReference.cache
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.Form1.resources
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.Properties.Resources.resources
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.GenerateResource.cache
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.exe
+C:\Users\Jola\Desktop\decision-support-system\mainapp\mainapp\mainapp\obj\Debug\mainapp.pdb
